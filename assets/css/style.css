@@ -11,6 +11,10 @@
   background-color: #262626;
   color: #fff;
 }
+html{
+  scroll-behaviour: smooth;
+}
+
 body {
   background-color: #f5f5f5;
   font-family: "Capriola", sans-serif;
